@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie-M11/Team-Profile-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddie-M11/Team-Profile-gen/issues"
+  },
+  "homepage": "https://github.com/Eddie-M11/Team-Profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "jest": "^28.1.3"
+  }
+}
