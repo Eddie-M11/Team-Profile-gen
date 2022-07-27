@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Eddie-M11/Team-Profile-gen#readme",
   "dependencies": {
-    "inquirer": "^6.5.2",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
     "jest": "^28.1.3"
   }
 }
